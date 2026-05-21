@@ -1,0 +1,9 @@
+{
+  "proxy": {
+    "enabled": true,
+    "host": "192.168.1.118",
+    "port": "8888",
+    "username": "ElectroYModz",
+    "password": "eLXVWeJSe7xh5NjXxt8f566Ny2Jkq2h4"
+  }
+}
